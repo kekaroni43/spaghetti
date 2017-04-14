@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	color: #00f000;
+	background-color: blue;
+	font-family: cursive;
+}
+
+h1 {
+	color: red;
+}
+
+#Ingredients{
+	color: black;
+}
+
+#Steps{
+	color: orange;
+}
+
+.orange{
+	color: orange;
+}
